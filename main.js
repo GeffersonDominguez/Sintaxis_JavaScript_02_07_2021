@@ -4,6 +4,7 @@ nombreString = `Gefferson Dominguez`
 edadNumber=28;
 hobbiesArray = `cocinar`
 console.log(hobbiesArray)
+soyProfesorBolena = false
 hobbiesArray = ["Programar","Cocino", 3043640755, null];
 hobbiesArray["Soy profesor"] = soyProfesorBolena;
 dirrecionPersonalObjecte = {
